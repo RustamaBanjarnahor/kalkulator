@@ -4,6 +4,12 @@
   padding-top: 200px;
   width: 400px;
 }
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://png.pngtree.com/png-clipart/20190924/original/pngtree-set-square-icon-in-trendy-style-isolated-background-png-image_4851156.jpg);
+  background-size: cover;
+  text-align: center;
+}
 
 .calculator-screen{
   width: 100%;
