@@ -4,6 +4,7 @@
   padding-top: 200px;
   width: 400px;
 }
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://png.pngtree.com/png-clipart/20190924/original/pngtree-set-square-icon-in-trendy-style-isolated-background-png-image_4851156.jpg);
@@ -46,7 +47,7 @@ button{
 }
 
 .operator, .equal-sign{
-  background-color: orange;
+  background-color: blue;
 }
 
 button:hover{
@@ -54,5 +55,5 @@ button:hover{
 }
 
 .operator:hover, .equal-sign:hover{
-  background-color:darkorange;
+  background-color:darkblue;
 }
